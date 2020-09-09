@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ecoproject/static/css/main.84f188c9.chunk.css",
-    "main.js": "/ecoproject/static/js/main.fd8613cf.chunk.js",
-    "main.js.map": "/ecoproject/static/js/main.fd8613cf.chunk.js.map",
+    "main.css": "/ecoproject/static/css/main.9c55c4f5.chunk.css",
+    "main.js": "/ecoproject/static/js/main.bd69ce38.chunk.js",
+    "main.js.map": "/ecoproject/static/js/main.bd69ce38.chunk.js.map",
     "runtime-main.js": "/ecoproject/static/js/runtime-main.d308d5cf.js",
     "runtime-main.js.map": "/ecoproject/static/js/runtime-main.d308d5cf.js.map",
     "static/css/2.8aa5a7f8.chunk.css": "/ecoproject/static/css/2.8aa5a7f8.chunk.css",
-    "static/js/2.2d1c10db.chunk.js": "/ecoproject/static/js/2.2d1c10db.chunk.js",
-    "static/js/2.2d1c10db.chunk.js.map": "/ecoproject/static/js/2.2d1c10db.chunk.js.map",
+    "static/js/2.ced310f8.chunk.js": "/ecoproject/static/js/2.ced310f8.chunk.js",
+    "static/js/2.ced310f8.chunk.js.map": "/ecoproject/static/js/2.ced310f8.chunk.js.map",
     "index.html": "/ecoproject/index.html",
-    "precache-manifest.2a4431afef96484e0dfd465604f347d9.js": "/ecoproject/precache-manifest.2a4431afef96484e0dfd465604f347d9.js",
+    "precache-manifest.0d897e2df22280c99b82c7eec4782339.js": "/ecoproject/precache-manifest.0d897e2df22280c99b82c7eec4782339.js",
     "service-worker.js": "/ecoproject/service-worker.js",
     "static/css/2.8aa5a7f8.chunk.css.map": "/ecoproject/static/css/2.8aa5a7f8.chunk.css.map",
-    "static/css/main.84f188c9.chunk.css.map": "/ecoproject/static/css/main.84f188c9.chunk.css.map",
-    "static/js/2.2d1c10db.chunk.js.LICENSE.txt": "/ecoproject/static/js/2.2d1c10db.chunk.js.LICENSE.txt",
+    "static/css/main.9c55c4f5.chunk.css.map": "/ecoproject/static/css/main.9c55c4f5.chunk.css.map",
+    "static/js/2.ced310f8.chunk.js.LICENSE.txt": "/ecoproject/static/js/2.ced310f8.chunk.js.LICENSE.txt",
     "static/media/a1.jpg": "/ecoproject/static/media/a1.218aee3b.jpg",
     "static/media/a2.jpg": "/ecoproject/static/media/a2.3ebdba2c.jpg",
     "static/media/a3.jpg": "/ecoproject/static/media/a3.98b32c54.jpg",
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.d308d5cf.js",
     "static/css/2.8aa5a7f8.chunk.css",
-    "static/js/2.2d1c10db.chunk.js",
-    "static/css/main.84f188c9.chunk.css",
-    "static/js/main.fd8613cf.chunk.js"
+    "static/js/2.ced310f8.chunk.js",
+    "static/css/main.9c55c4f5.chunk.css",
+    "static/js/main.bd69ce38.chunk.js"
   ]
 }
